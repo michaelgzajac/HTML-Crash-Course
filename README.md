@@ -1,3 +1,1 @@
-FES-HTML-Crash-Course
-
-Need to go over these changes again in Git to make sure they stick - 6/14/2024
+WEEK 1 - FES Course Content - HTML-Crash-Course
